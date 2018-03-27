@@ -93,6 +93,7 @@ public class RegisterFragment extends Fragment {
             myAlert.myDialog("Non Choose Mode", "Plese Choose Mode");
         } else {
 //            Choose Mode OK
+
         }
 
     }   // uploadToServer
